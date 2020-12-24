@@ -4,7 +4,7 @@ function hello() {
   if (x > 0) {
     console.log('hello there');
   } else {
-    console.log('hi');
+    console.log('Hello');
   }
 }
 hello();
